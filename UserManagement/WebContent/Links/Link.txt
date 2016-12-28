@@ -1,0 +1,2 @@
+http://localhost:8080/UserManagement/rest/UserService/anotherUsers
+http://localhost:8080/UserManagement/rest/UserService/users
